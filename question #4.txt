@@ -1,0 +1,27 @@
+
+<!Doctype html>
+<html>
+    <body style="margin:12px;">
+<title>HTML TEMPLATE</title>
+    </head>
+<div style="color:white;">
+<h1 style="padding-left:80%;color:white;background-color:skyBlue"> Victoria's Journal<br>so fressh and so clean</br></h1>
+<div  style="float:left;">
+<h2 style="float:left;padding:0px 2px 3px 5px;background-color:green;">Friends
+<ul style="list-style-type:disc">
+<li style="color:red;">390 buddies</li>
+<li style="color:white;">Big will</li>
+<li style="color:red;">Conan the Librarian</li>
+</h2>
+<div = style="float:right;">
+<h3 style="padding:10px 2px 3px 5px;background-color:skyBlue;">03/03/2008:Computer Mouse
+<p>A computer mouse is a small, hand-held input device used to control the cursor on a computer screen. It lets you point, click, drag, and scroll through programs and web pages with ease. Invented by Douglas Engelbart in the 1960s, standard models feature a left button for selecting items, a right button for opening menus, and a scroll wheel in the middle.</p> 
+</h3>
+</div>
+<div>
+<h4 style=" margin:padding:10px 2px 3px 5px;background-color:skyBlue;">08/07/2026:Keyboard
+<p>A computer keyboard is a primary hardware input device used to enter letters, numbers, symbols, and commands into a computer or mobile device.</p>
+</h4>
+</div>
+</body>
+</html>
